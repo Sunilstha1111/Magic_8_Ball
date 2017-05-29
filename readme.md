@@ -1,0 +1,1 @@
+This program allows users to ask questions to Magic-8 Ball. In return Magic-8 ball replies back to the user with the most correct answer possible. And it will continue to do so unless users type N when ask if they want to ask another question. In addition, this program also verifies if the users have asked question or not. If they don't it ask them to ask the question again.
